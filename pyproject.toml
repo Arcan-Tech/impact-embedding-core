@@ -12,7 +12,9 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "pre-commit>=4.5.1",
     "pytest>=8.3,<10",
+    "ruff>=0.14.8",
 ]
 
 [build-system]
@@ -28,6 +30,9 @@ include = [
     "/tests",
     "/pyproject.toml",
 ]
+
+[tool.ruff.lint]
+select = ["F401"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
