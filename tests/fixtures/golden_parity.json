@@ -1,0 +1,265 @@
+{
+  "chunking": {
+    "empty": {
+      "recursive": [
+        {
+          "text": "",
+          "token_count": 0
+        }
+      ],
+      "sliding-window": [
+        {
+          "text": "",
+          "token_count": 0
+        }
+      ]
+    },
+    "multi_chunk": {
+      "recursive": [
+        {
+          "text": "word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 512
+        },
+        {
+          "text": "word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 512
+        },
+        {
+          "text": "word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 278
+        }
+      ],
+      "sliding-window": [
+        {
+          "text": "word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 512
+        },
+        {
+          "text": " word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 512
+        },
+        {
+          "text": " word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word",
+          "token_count": 278
+        }
+      ]
+    },
+    "short": {
+      "recursive": [
+        {
+          "text": "The quick brown fox jumps over the lazy dog.",
+          "token_count": 10
+        }
+      ],
+      "sliding-window": [
+        {
+          "text": "The quick brown fox jumps over the lazy dog.",
+          "token_count": 10
+        }
+      ]
+    },
+    "unicode": {
+      "recursive": [
+        {
+          "text": "Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve",
+          "token_count": 511
+        },
+        {
+          "text": "Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014",
+          "token_count": 514
+        },
+        {
+          "text": "na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014",
+          "token_count": 512
+        },
+        {
+          "text": "na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9.",
+          "token_count": 460
+        }
+      ],
+      "sliding-window": [
+        {
+          "text": "Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7",
+          "token_count": 512
+        },
+        {
+          "text": ". Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade",
+          "token_count": 512
+        },
+        {
+          "text": " Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014",
+          "token_count": 512
+        },
+        {
+          "text": " na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. Caf\u00e9 na\u00efve fa\u00e7ade \u2014 \u6771\u4eac\u30bf\u30ef\u30fc is \u96fb\u6ce2\u5854 (\u3067\u3093\u3071\u3068\u3046). emoji stress test: \ud83d\ude00\ud83d\ude80\ud83d\udd25 caf\u00e9 touch\u00e9 r\u00e9sum\u00e9. ",
+          "token_count": 460
+        }
+      ]
+    },
+    "whitespace_only": {
+      "recursive": [
+        {
+          "text": "   \n\t  \n  ",
+          "token_count": 3
+        }
+      ],
+      "sliding-window": [
+        {
+          "text": "   \n\t  \n  ",
+          "token_count": 3
+        }
+      ]
+    }
+  },
+  "pooling": {
+    "cancelling_to_zero": {
+      "max": [
+        1.0,
+        1.0
+      ],
+      "mean": [
+        0.0,
+        0.0
+      ]
+    },
+    "equal_weights": {
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mean": [
+        0.5773502691896257,
+        0.5773502691896257,
+        0.5773502691896257
+      ]
+    },
+    "negative_components": {
+      "max": [
+        4.0,
+        2.0,
+        6.0
+      ],
+      "mean": [
+        0.48008409309966055,
+        -0.5724079571572877,
+        0.6647318212149146
+      ]
+    },
+    "single_vector": {
+      "max": [
+        0.6,
+        0.8,
+        0.0
+      ],
+      "mean": [
+        0.6,
+        0.8,
+        0.0
+      ]
+    },
+    "uneven_weights": {
+      "max": [
+        3.0,
+        4.0
+      ],
+      "mean": [
+        0.2219742487546798,
+        0.9750525282720904
+      ]
+    }
+  },
+  "pooling_cases": {
+    "cancelling_to_zero": {
+      "vectors": [
+        [
+          1.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -1.0
+        ]
+      ],
+      "weights": [
+        1.0,
+        1.0
+      ]
+    },
+    "equal_weights": {
+      "vectors": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "weights": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "negative_components": {
+      "vectors": [
+        [
+          -1.0,
+          2.0,
+          -3.0
+        ],
+        [
+          4.0,
+          -5.0,
+          6.0
+        ]
+      ],
+      "weights": [
+        2.0,
+        7.0
+      ]
+    },
+    "single_vector": {
+      "vectors": [
+        [
+          0.6,
+          0.8,
+          0.0
+        ]
+      ],
+      "weights": [
+        5.0
+      ]
+    },
+    "uneven_weights": {
+      "vectors": [
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          3.0,
+          4.0
+        ]
+      ],
+      "weights": [
+        10.0,
+        512.0,
+        51.0
+      ]
+    }
+  }
+}
